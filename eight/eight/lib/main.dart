@@ -23,7 +23,7 @@ class home extends StatelessWidget {
                 children:<Widget>[
                   Container(
                     color: Colors.yellow,
-                    height: 50.0, 
+                    height: 50.0,  
                   ),
                   SizedBox(
                     height: 10.0,
